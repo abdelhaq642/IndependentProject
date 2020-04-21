@@ -1,0 +1,4 @@
+[0209/010745.671:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0209/010745.672:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0209/010745.673:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0209/010745.673:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
